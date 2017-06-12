@@ -28,3 +28,6 @@ proguard/
 *.iws
 .idea/
 
+
+.idea/instapk.xml
+instapk.log*
