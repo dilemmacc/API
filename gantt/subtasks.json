@@ -20,7 +20,7 @@
         "startDate": 1496937600000,
         "status": 0,
         "taskID": 3,
-        "taskname": "屠丹筛选增加城市条件api  "
+        "taskname": "屠丹筛选增加城市条件api"
       },
       {
         "subTaskID": 4,
@@ -40,7 +40,7 @@
         "startDate": 1497196800000,
         "status": 0,
         "taskID": 4,
-        "taskname": "刘朋带看优化api "
+        "taskname": "刘朋带看优化api"
       },
       {
         "subTaskID": 8,
@@ -50,7 +50,7 @@
         "startDate": 1497196800000,
         "status": 0,
         "taskID": 4,
-        "taskname": "张强插件动态更新      "
+        "taskname": "张强插件动态更新"
       },
       {
         "subTaskID": 10,
@@ -60,7 +60,7 @@
         "startDate": 1497283200000,
         "status": 0,
         "taskID": 3,
-        "taskname": "屠丹app运营位  "
+        "taskname": "屠丹app运营位"
       },
       {
         "subTaskID": 7,
@@ -70,7 +70,7 @@
         "startDate": 1497369600000,
         "status": 0,
         "taskID": 4,
-        "taskname": "刘朋旅居新房卡片发送api   "
+        "taskname": "刘朋旅居新房卡片发送api"
       },
       {
         "subTaskID": 5,
@@ -80,7 +80,7 @@
         "startDate": 1497456000000,
         "status": 0,
         "taskID": 4,
-        "taskname": "   朝阳楼盘筛增加城市条件api "
+        "taskname": "朝阳楼盘筛增加城市条件api "
       },
       {
         "subTaskID": 9,
@@ -90,7 +90,7 @@
         "startDate": 1497456000000,
         "status": 0,
         "taskID": 4,
-        "taskname": "张强jenkins插件打包  "
+        "taskname": "张强jenkins插件打包"
       },
       {
         "subTaskID": 11,
@@ -100,7 +100,7 @@
         "startDate": 1497542400000,
         "status": 0,
         "taskID": 3,
-        "taskname": "屠丹香港手机号相关  "
+        "taskname": "屠丹香港手机号相关"
       },
       {
         "subTaskID": 1,
@@ -110,7 +110,7 @@
         "startDate": 1497801600000,
         "status": 0,
         "taskID": 1,
-        "taskname": "联调 "
+        "taskname": "联调"
       },
       {
         "subTaskID": 3,
@@ -120,7 +120,7 @@
         "startDate": 1497801600000,
         "status": 0,
         "taskID": 2,
-        "taskname": "联调  "
+        "taskname": "联调"
       },
       {
         "subTaskID": 13,
@@ -130,7 +130,7 @@
         "startDate": 1497801600000,
         "status": 0,
         "taskID": 4,
-        "taskname": "联调 "
+        "taskname": "联调"
       },
       {
         "subTaskID": 12,
@@ -140,7 +140,7 @@
         "startDate": 1497888000000,
         "status": 0,
         "taskID": 3,
-        "taskname": "联调  "
+        "taskname": "联调"
       },
       {
         "subTaskID": 14,
@@ -150,7 +150,7 @@
         "startDate": 1497888000000,
         "status": 0,
         "taskID": 3,
-        "taskname": "ui校对，提测  "
+        "taskname": "ui校对，提测"
       },
       {
         "subTaskID": 15,
@@ -160,7 +160,7 @@
         "startDate": 1497888000000,
         "status": 0,
         "taskID": 4,
-        "taskname": "ui校对，提测   "
+        "taskname": "ui校对，提测"
       }
     ]
 
